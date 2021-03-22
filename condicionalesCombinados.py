@@ -34,3 +34,6 @@ if 0<edad<105:
         print("es menor de edad")
 
 print("fin del programa 3 ")
+
+#Haciendo un cambio en este proyecto
+#Hola, si lees esto, tu puedes crack, fiera, makina makinola
